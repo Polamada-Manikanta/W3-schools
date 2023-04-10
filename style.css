@@ -3,7 +3,6 @@
     padding: 0px;
     
 }
-
 .nav1{
     display: flex;
     align-items: center;
@@ -22,7 +21,7 @@
     color: black;
 }
 .nav0 ul li{
-    border-radius: 10px;
+    border-radius: 11px;
     
 }
 .nav0 ul li a{
